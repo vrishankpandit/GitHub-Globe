@@ -1,0 +1,42 @@
+{
+    "type":"Map",
+    "Coordinates":[
+    {
+        "text":"IND",
+        "size":1.0,
+        "country":"India",
+        "city":"New Delhi",
+        "lat":"28.6139",
+        "lng":"77.2088",
+        "color":"#ffffff"
+    },
+    {
+        "text":"UAE",
+        "size":1.0,
+        "country":"United Arab Emirates",
+        "city":"Dubai",
+        "lat":"25.2048",
+        "lng":"55.2708",
+        "color":"#ffffff"
+    },
+    {
+        "text":"AUS",
+        "size":1.0,
+        "country":" Australia",
+        "city":"Sydney",
+        "lat":"-33.8688",
+        "lng":"151.2093",
+        "color":"#ffffff"
+    },
+    {
+        "text":"USA",
+        "size":1.0,
+        "country":" United States of America",
+        "city":"Calfornia",
+        "lat":"36.7783",
+        "lng":"-119.4179",
+        "color":"#ffffff"
+    }
+
+    ]
+}
