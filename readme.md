@@ -1,5 +1,3 @@
-# Three.js Journey
-
 <h1 align="center" id="title">Github Globe</h1>
 
 <p id="description">This project is a Three.js implementation replicating the interactive 3D globe featured on GitHub's homepage. The globe visualizes real-time or simulated connection points across the world using WebGL shaders (GLSL) to create a smooth high-performance rendering.</p>
